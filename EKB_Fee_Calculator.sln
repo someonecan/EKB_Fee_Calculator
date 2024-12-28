@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EKB_Fee_Calculator", "EKB_Fee_Calculator\EKB_Fee_Calculator.csproj", "{754C73C4-6D94-450D-B508-50603265F9CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{754C73C4-6D94-450D-B508-50603265F9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754C73C4-6D94-450D-B508-50603265F9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754C73C4-6D94-450D-B508-50603265F9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754C73C4-6D94-450D-B508-50603265F9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A4954DA-8FAA-471E-9A62-CA3C81D2D8C4}
+	EndGlobalSection
+EndGlobal
